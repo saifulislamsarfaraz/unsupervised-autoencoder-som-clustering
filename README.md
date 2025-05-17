@@ -56,3 +56,4 @@ This project demonstrates an end-to-end pipeline for unsupervised clustering of 
    ```bash
    git clone https://github.com/saifulislamsarfaraz/unsupervised-autoencoder-som-clustering.git
    cd unsupervised-autoencoder-som-clustering
+   python main.py
